@@ -20,8 +20,8 @@ This project explores global population data using Python to identify population
 - Google Colab / Jupyter Notebook
 
 ## Project File
--world_population_EDA.ipynb
--world_population.csv 
+- world_population_EDA.ipynb
+- world_population.csv 
 
 ## Objective
 To develop insights into global population patterns through exploratory data analysis and data visualization.
